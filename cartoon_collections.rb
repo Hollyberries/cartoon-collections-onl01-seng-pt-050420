@@ -26,6 +26,7 @@ end
 def find_the_cheese(array)
   yummy_snack = []
   if array.include? do |snack|
+  
  else puts "nil"
  end
  
