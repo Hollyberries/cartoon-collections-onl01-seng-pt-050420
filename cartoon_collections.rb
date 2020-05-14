@@ -24,6 +24,6 @@ end
 
 
 def find_the_cheese(array)
-  array.detect {|snack| snack}
+  array.detect {|snack| snack(cheese_types)}
   
  end
