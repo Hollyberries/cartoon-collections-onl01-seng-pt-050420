@@ -24,7 +24,6 @@ end
 
 
 def find_the_cheese(array)
-  cheese_types = []
   if array.include?
   else puts "nil"
  end
