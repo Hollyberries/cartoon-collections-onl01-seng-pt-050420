@@ -25,7 +25,4 @@ end
 
 def find_the_cheese(array)
   array.detect {|cheese_types|}
-  else puts "nil"
- end
- 
  end
