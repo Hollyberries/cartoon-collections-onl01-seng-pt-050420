@@ -27,8 +27,3 @@ def find_the_cheese(array)
   array.include?("cheddar")
 
 end
-
-
-#a = [ "a", "b", "c" ]
-#a.include?("b")   #=> true
-#a.include?("z") 
