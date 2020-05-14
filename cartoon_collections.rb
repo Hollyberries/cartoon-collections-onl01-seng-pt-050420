@@ -24,6 +24,5 @@ end
 
 
 def find_the_cheese(array)
-  array.include? {|snack| snack == }
-
+  if array.include? 
 end
