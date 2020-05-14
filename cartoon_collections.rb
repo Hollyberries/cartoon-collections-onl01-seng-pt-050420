@@ -17,8 +17,8 @@ end
 
 
 
-def long_planeteer_calls# code an argument here
-  # Your code here
+def long_planeteer_call(array)
+  array.any? {|string| string.length > 4}
 end
 
 
