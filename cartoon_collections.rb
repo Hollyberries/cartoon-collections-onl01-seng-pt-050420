@@ -24,8 +24,7 @@ end
 
 
 def find_the_cheese(array)
-  if array.include?
-  puts "cheddar"
+  if array.include? puts cheddar
  else puts "nil"
  end
  
