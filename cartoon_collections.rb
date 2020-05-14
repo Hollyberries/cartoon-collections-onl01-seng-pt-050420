@@ -24,8 +24,12 @@ end
 
 
 def find_the_cheese(array)
-  array.include? do |snack|
-  if 
+  array.include?("cheddar")
   end
 
 end
+
+
+#a = [ "a", "b", "c" ]
+#a.include?("b")   #=> true
+#a.include?("z") 
