@@ -24,7 +24,7 @@ end
 
 
 def find_the_cheese(array)
-  if array.detec?(cheese_types)
+  array.detect {|cheese_types|}
   else puts "nil"
  end
  
